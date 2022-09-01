@@ -1,0 +1,1 @@
+gcc -Lmlx -lmlx -framework OpenGL -framework AppKit ./src/*.c ./libft/libft.a ./mlx/libmlx.a
